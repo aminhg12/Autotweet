@@ -1,9 +1,9 @@
 {
 	"twitter": {
-		"consumer_key": "5cyWW3SydC6KCDkusEBQHW2mh",
-		"consumer_secret": "ZbSYconU4bOxjXVVtsRtk8K2Knrbr9UZmHOmhzAOOQr4k97hEI",
-		"access_token": "311424286-CsLJYD0SkYT2CIQn0m2FlOTpMfNKooiIJypWlmKz",
-		"access_token_secret": "xMxySA2jnFPgYzyfoflWSFENwzlk4m6VTwzKeFGCkKSmJ"
+		"consumer_key": "pDxszG5yaVjkoB5Lsu5pxuuoU",
+		"consumer_secret": "VpTJquc1S0MdoL9by0EKHZeAjCfEJIpPiBKu1T1lULB5DaKnqp",
+		"access_token": "311424286-7DIi6qNmewpRGvkSlPQWn6T1DeStOzwlAxHGp2s7",
+		"access_token_secret": "CKrq8sqcN6eFTDTPqLkr02lV5gO6XDMkohT1HnWO2dPtj"
 	},
 	"telegram": {
 		"access_token": "6077197950:AAEOLSwiH8jsPvPnJ2YTL5M0N2sQGrqSgH4",
